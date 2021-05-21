@@ -1,0 +1,17 @@
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\bin\Debug\Classwork1_4.7.2.exe.config
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\bin\Debug\Classwork1_4.7.2.exe
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\bin\Debug\Classwork1_4.7.2.pdb
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\bin\Debug\NumericUpDown.dll
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.csprojAssemblyReference.cache
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\MainWindow.g.cs
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\App.g.cs
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2_MarkupCompile.cache
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2_MarkupCompile.lref
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\MainWindow.baml
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.g.resources
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4._7._2.Properties.Resources.resources
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.csproj.GenerateResource.cache
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.csproj.CoreCompileInputs.cache
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.csproj.CopyComplete
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.exe
+C:\Users\Gnidez\source\repos\WpfLesson3\Classwork1_4.7.2\obj\Debug\Classwork1_4.7.2.pdb
